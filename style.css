@@ -52,3 +52,8 @@ button{
 .soldout{
   background-color:#FF0000;
 }
+@media only screen and (max-width: 600px) {
+.main-box{
+  display:block;
+  }
+}
